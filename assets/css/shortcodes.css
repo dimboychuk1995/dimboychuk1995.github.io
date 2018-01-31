@@ -1,6 +1,19 @@
 /*------------------------------------------------------------------
     page title
 -------------------------------------------------------------------*/
+.header-full-width{
+    background-color: #808080;
+}
+
+.font_to_catTowing{
+    font-family: Anton;
+    font-size: 200%;
+}
+
+.phone_number{
+    font-size: 150%;
+}
+
 .page-title {
     position: relative;
     padding: 50px 0;
